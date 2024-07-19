@@ -1,4 +1,4 @@
-package mx.edu.ebc.configurations
+package com.devs.camel.configurations
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
